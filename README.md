@@ -29,3 +29,7 @@
 ### Scaler
 - Robust Scaler 사용  
 
+### To-Do
+- Hyper Parameters Tuning (Grid Search)
+- Decide **valid(medically)** pivots to verify outliers
+- Decide Features with medical informations
