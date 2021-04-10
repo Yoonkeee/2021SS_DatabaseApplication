@@ -22,3 +22,10 @@
 
 ### Libraries
 - Scikit-learn
+
+### Outliers Filtering
+- Data Read 단계에서 Feature와 Outlier로 판정할 최댓값, 최소값을 dict형식으로 전달하여 Filtering하였음    
+
+### Scaler
+- Robust Scaler 사용  
+
