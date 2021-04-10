@@ -33,3 +33,4 @@
 - Hyper Parameters Tuning (Grid Search)
 - Decide **valid(medically)** pivots to verify outliers
 - Decide Features with medical informations
+- Visualization
