@@ -1,4 +1,5 @@
 # 2021SS_DatabaseApplication(COM4011)  
+[Code Link to nbviewer](https://nbviewer.jupyter.org/github/Yoonkeee/2021SS_DatabaseApplication/blob/master/Diabetes%20Modeling.ipynb)
 ## Database Application(데이터베이스응용) by [이동호 교수님](http://database.hanyang.ac.kr)  
 ### PBL(Problem-Based Learning)
 
@@ -31,6 +32,7 @@
 
 ### To-Do
 - Hyper Parameters Tuning (Grid Search)
-- Decide **valid(medically)** pivots to verify outliers
-- Decide Features with medical informations
-- Visualization
+
+### Performance
+#### 21. 04. 18  
+- Got F1 Score 0.97 by setting data range and picking data from mean  
