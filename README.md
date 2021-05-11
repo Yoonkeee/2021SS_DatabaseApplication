@@ -35,4 +35,6 @@
 
 ### Performance
 #### 21. 04. 18  
-- Got F1 Score 0.97 by setting data range and picking data from mean  
+- ~~Got F1 Score 0.97 by setting data range and picking data from mean~~ -> aborted  
+#### 21. 05. 11  
+- Got F1 Score 0.87 by setting data range, picking data from mean(priority), Light GBM  
